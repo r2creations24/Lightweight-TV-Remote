@@ -7,10 +7,10 @@ No personal and/or sensitive data is transmitted within the core functionality o
 
 <b>Permissions Requested In App</b>
 
-	    android.permission.INTERNET
-    	android.permission.ACCESS_NETWORK_STATE
-    	android.permission.ACCESS_WIFI_STATE
-    	android.permission.CHANGE_WIFI_MULTICAST_STATE
+	android.permission.INTERNET
+	android.permission.ACCESS_NETWORK_STATE
+	android.permission.ACCESS_WIFI_STATE
+	android.permission.CHANGE_WIFI_MULTICAST_STATE
 
 These permissions are used in the app to find/communicate with devices on the local network the apps device is connected to.  
 
